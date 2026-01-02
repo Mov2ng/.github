@@ -144,6 +144,9 @@
 
 ### 4.1 인증/유저 시스템 (A) - 2분
 
+<img width="735" height="804" alt="image" src="https://github.com/user-attachments/assets/801c4be0-c945-4639-a657-b5c71b11e943" />
+
+
 #### 기능 설명
 
 - 회원가입: USER/DRIVER 역할 구분, 이메일 중복 체크
@@ -429,6 +432,10 @@ async function getRequestsByDriver(
 
 ### 4.4 기사님 찾기 (조원정) - 2분
 
+<img width="735" height="803" alt="image" src="https://github.com/user-attachments/assets/2d546f88-4a99-422b-981d-7bed80975bc0" />
+<img width="735" height="806" alt="image" src="https://github.com/user-attachments/assets/8d757ac2-faef-4186-9f72-1a9d4cb49900" />
+
+
 #### 기능 설명
 
 - 비회원/유저 모두 기사님 목록 조회 가능
@@ -681,6 +688,10 @@ async function getReviewsByDriver(
 - [ ] 리뷰 수정 API 구현
 - [ ] 리뷰 이미지 업로드 기능
 - [ ] 리뷰 키워드 라이브러리 도입
+
++) 받은 요청 (기사님) 관리 기능 구현
+<img width="733" height="740" alt="image" src="https://github.com/user-attachments/assets/bf38879b-16e2-4785-903b-bd6e1dd82e18" />
+
 
 ---
 
