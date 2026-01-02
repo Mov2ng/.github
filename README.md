@@ -87,6 +87,11 @@
 | **Vercel** (FE)  | Next.js 최적화, 자동 배포, CDN        | AWS Amplify 대비 설정 간단              |
 | **EC2/RDS** (BE) | 유연한 인프라 구성, PostgreSQL 호스팅 | Docker + Kubernetes 대비 초기 설정 간단 |
 
+### 협업 도구
+<img width="728" height="801" alt="image" src="https://github.com/user-attachments/assets/838c1a0b-6976-4b20-8219-7e060cd9e1f8" />
+<img width="222" height="652" alt="image" src="https://github.com/user-attachments/assets/d6999a1a-cf62-4be2-8a78-d09d0052d5fe" />
+
+
 ---
 
 ## 3. 전체 아키텍처
