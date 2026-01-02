@@ -865,6 +865,8 @@ app.get("/health", async (req, res) => {
 
 ### 정량적 결과
 
+<img width="390" height="597" alt="image" src="https://github.com/user-attachments/assets/745b7bb2-f3a9-4b08-a326-91dbfa3d9dd8" />
+
 **구현 완료 기능** (1개월 기준):
 
 - ✅ 인증/유저 시스템 (회원가입, 로그인, 로그아웃)
