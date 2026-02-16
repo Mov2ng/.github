@@ -455,7 +455,7 @@
 
 ---
 
-## **발표 자료
+## 발표 자료
 
 <img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/a7a3b85b-0221-4705-9537-8d4147dc24dd" />
 
